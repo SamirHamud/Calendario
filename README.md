@@ -1,2 +1,2 @@
-# Calendario C#
-Um calendario em C#, feito de acordo com a pascoa, quase todos os feriados calculados de acordo com o dia da pascoa, feriados moveis e os feriados fixos..
+# Calendário C#
+Um calendário em C#, feito de acordo com a páscoa, os feriados são calculados de acordo com o dia da páscoa, feriados móveis. Mas também mostra alguns feriados fixos.
